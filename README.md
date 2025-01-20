@@ -3,7 +3,13 @@
 
 ### Project Overview
 
+
 This data analysis project aids to provide insights into the sales performance of an Executive sales company from Jan-May 2020 by analyzing various aspects of the sales data, we seek to identify the sales trends over the month, products with the highest sales, the regional sales, the sales channel, the top ten teams and as well as the top 10 states so as to make data driven recommendation and gain a deeper understanding of the company's performance.
+
+![EXECUTIVE SALES REPORT  DASHBOARD BY PROFIT](https://github.com/user-attachments/assets/d9e8ede9-fff3-424a-9201-dfc9593b0e98)
+![executive sales report  dashboard by Revenue](https://github.com/user-attachments/assets/85ff1d45-46d5-44f0-8fce-5def0ef3e356)
+
+
 
 ### Data Sources
 
