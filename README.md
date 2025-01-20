@@ -2,7 +2,7 @@
 
 
 ### Project Overview
-
+---
 
 This data analysis project aids to provide insights into the sales performance of an Executive sales company from Jan-May 2020 by analyzing various aspects of the sales data, we seek to identify the sales trends over the month, products with the highest sales, the regional sales, the sales channel, the top ten teams and as well as the top 10 states so as to make data driven recommendation and gain a deeper understanding of the company's performance.
 
@@ -62,4 +62,11 @@ The analysis results are summarized as follows:
 ### Limitations
 
 - I had to remove all two decimal points of the revenue and profit columns because they would have affected the accuracy of my conclusions from the analysis. There are still a few outliers even after the omissions but even then we can still see that there is a positive correlation between both profit and revenue.
+
+😄
+💻
+🖱️
+
+|Heading1|Heading2|
+|-------|---------|
 
