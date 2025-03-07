@@ -17,8 +17,8 @@ Sales Data: The primary data used for this analysis is the "Executive Sales Repo
 
 ### Tools 
 
-- Excel -Data Cleaning, Data Analysis, Report Creating.
-- Powerpoint- Visualization
+- Excel -Data Cleaning, Data Analysis, Report Creating, Visualization.
+- Powerpoint- Presentation
   -  [Download here] [https://microsoft.com]
 
 ### Data Cleaning/Preparation
@@ -33,6 +33,9 @@ Sales Data: The primary data used for this analysis is the "Executive Sales Repo
 - What is the overall sales Trend?
 - Which Product are top sellers?
 - What are the Peak sales periods?
+- What are the top 10 sales?
+- Which Channel has the top Sales?
+  
 
 ### Data Analysis
 
